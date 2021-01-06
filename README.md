@@ -1,7 +1,5 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/personal-profile-banner.png "Header")
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=jameshenderson12&theme=<THEME_NAME>" />
--->
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ## A bit about me...
 Hello! I'm a software research developer with vast experience in designing and building educational resources for Erasmus+ projects and nursing students.
@@ -15,7 +13,7 @@ Hello! I'm a software research developer with vast experience in designing and b
 - ⚡ Fun fact: I once auditioned for the 2006 UK version of X-Factor.
 
 ## My GitHub stats...
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 <a href="https://github.com/jameshenderson12/jameshenderson12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -25,5 +23,4 @@ Hello! I'm a software research developer with vast experience in designing and b
 
 <!--
 **jameshenderson12/jameshenderson12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-->
