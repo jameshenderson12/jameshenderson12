@@ -15,7 +15,7 @@ Hello! I'm a software research developer with vast experience in designing and b
 ## My GitHub stats...
 
 <a href="https://github.com/jameshenderson12/jameshenderson12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/jameshenderson12/jameshenderson12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="James' GitHub Stats" />
