@@ -1,4 +1,4 @@
-[![Header](https://github.com/jameshenderson12/main/personal-profile-banner.png "Header")]
+[![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/personal-profile-banner.png "Header")]
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 -->
