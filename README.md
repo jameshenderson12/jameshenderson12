@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/personal-profile-banner.png "Header")
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 
 ## A bit about me...
 Hello! I'm a software research developer with vast experience in designing and building educational resources for Erasmus+ projects and nursing students.
