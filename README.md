@@ -1,9 +1,5 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/profile-header.png "Header")
-<a href="https://github.com/jameshenderson12/jameshenderson12">
-  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColor=%230100a3" />
-</a>
-<!-- 7B1E7A
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
+<!--![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 -->
 ## A bit about me...
 Hello! I'm a software research developer with vast experience in designing and building educational resources for Erasmus+ projects and nursing students.
@@ -14,7 +10,7 @@ Hello! I'm a software research developer with vast experience in designing and b
 - 💬 Ask me about anything related to digital/online learning and pedagogy.
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I once auditioned for the 2006 UK version of X-Factor.
+- ⚡ Fun fact: ...
 
 ## My GitHub stats...
 
