@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/personal-profile-banner.png "Header")
-<div style="text-align:center">
+<div style="align:center">
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 </div>
 
