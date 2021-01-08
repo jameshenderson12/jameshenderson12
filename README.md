@@ -1,8 +1,8 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/profile-header.png "Header")
 <a href="https://github.com/jameshenderson12/jameshenderson12">
-  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A" />
+  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColor=%230100a3" />
 </a>
-<!--
+<!-- 7B1E7A
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 -->
 ## A bit about me...
