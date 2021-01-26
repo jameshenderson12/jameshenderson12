@@ -3,14 +3,15 @@
 -->
 ## A bit about me...
 Hello! I'm a software research developer with vast experience in designing and building educational resources for Erasmus+ projects and nursing students.
-- 🔭 I’m currently working on Erasmus+ projects
-- 🌱 I’m currently developing resources using RASA chatbot, VR, 360&deg; video technologies
+🔭 I’m currently working on Erasmus+ projects
+🌱 I’m currently developing resources using RASA chatbot, VR, 360&deg; video technologies
+💬 Ask me about anything related to digital/online learning and pedagogy.
+😄 Pronouns: he/his
+<!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to digital/online learning and pedagogy.
 <!-- 📫 How to reach me: ... -->
-- 😄 Pronouns: he/his
-<!-- ⚡ Fun fact: ... -->
+
 
 ## My GitHub stats...
 
