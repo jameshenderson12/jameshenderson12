@@ -13,13 +13,13 @@ Hello! I'm a software research developer with vast experience in designing and b
 <!-- 📫 How to reach me: ... -->
 
 
-## My GitHub stats...
+## My GitHub usage...
 
 <a href="https://github.com/jameshenderson12/jameshenderson12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&count_private=true&theme=vue" />
 </a>
 <a href="https://github.com/jameshenderson12/jameshenderson12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&line_height=27&count_private=true&theme=vue" alt="James' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&line_height=27&count_private=true&theme=vue" alt="James' GitHub Usage" />
 </a>
 
 <!--
