@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/jameshenderson12/jameshenderson12/main/profile-header.png "Header")
 <!--![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 -->
-## A bit about me...
+<!--## A bit about me...-->
 Hello! Originally from Scotland, I work at the University of Nottingham developing software applications and learning resources for various Erasmus+ projects. I graduated from Edinburgh Napier University in 2008 as a software engineer although I also have over a decade of experience in designing and building educational resources for healthcare students.
 - 🔭 I’m currently working on Erasmus+ projects
 - 🌱 I’m currently developing resources using RASA chatbot, VR, 360&deg; video technologies
@@ -15,7 +15,7 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 <!-- 📫 How to reach me: ... -->
 
 
-## My GitHub usage...
+<!--## My GitHub usage...-->
 
 <a href="https://github.com/jameshenderson12/jameshenderson12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&langs_count=8&count_private=true&theme=vue&hide_border=true" />
