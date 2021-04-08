@@ -2,13 +2,15 @@
 <!--![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 -->
 ## A bit about me...
-Hello! I'm a software research developer with vast experience in designing and building educational resources for Erasmus+ projects and nursing students.
+Hello! Originally from Scotland, I work at the University of Nottingham developing software applications and learning resources for various Erasmus+ projects. I graduated from Edinburgh Napier University in 2008 as a software engineer although I also have over a decade of experience in designing and building educational resources for healthcare students.
 - 🔭 I’m currently working on Erasmus+ projects
 - 🌱 I’m currently developing resources using RASA chatbot, VR, 360&deg; video technologies
-- 💬 Ask me about anything related to digital/online learning and pedagogy.
-- 😄 Pronouns: he/his
+- 💬 Ask me about anything related to digital/online learning and pedagogy
+- ⚽ My hobbies include football, music, coding/gaming and eating pizza!
+
 <!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: he/his
 🤔 I’m looking for help with ... -->
 <!-- 📫 How to reach me: ... -->
 
