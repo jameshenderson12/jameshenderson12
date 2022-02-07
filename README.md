@@ -6,7 +6,7 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 - 🔭 I’m currently working on Erasmus+ projects
 - 🌱 I’m currently developing resources using chatbot, VR, 360&deg; technologies
 - 💬 Ask me about anything related to digital/online learning and pedagogy
-- ⚽ My hobbies include football, music, coding/gaming and eating pizza!
+- ⚽ My hobbies include football, music, coding, gaming and eating pizza!
 
 <!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ...
