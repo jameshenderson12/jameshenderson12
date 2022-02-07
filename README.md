@@ -4,7 +4,7 @@
 <!--## A bit about me...-->
 Hello! Originally from Scotland, I work at the University of Nottingham developing software applications and learning resources for various Erasmus+ projects. I graduated from Edinburgh Napier University in 2008 as a software engineer although I also have over a decade of experience in designing and building educational resources for healthcare students.
 - 🔭 I’m currently working on Erasmus+ projects
-- 🌱 I’m currently developing resources using chatbot, VR, 360&deg; video technologies
+- 🌱 I’m currently developing resources using chatbot, VR, 360&deg; technologies
 - 💬 Ask me about anything related to digital/online learning and pedagogy
 - ⚽ My hobbies include football, music, coding/gaming and eating pizza!
 
