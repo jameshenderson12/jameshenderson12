@@ -18,6 +18,9 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 <!--## My GitHub usage...-->
 
 <a href="https://github.com/jameshenderson12/jameshenderson12">
+![Stats Overview](https://raw.githubusercontent.com/jameshenderson12/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/jameshenderson12/github-stats-transparent/output/generated/languages.svg)
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&line_height=27&count_private=true&theme=vue&hide_border=true&custom_title=Some of my GitHubs stats" alt="James' GitHub Usage" />
 </a>
 <a href="https://github.com/jameshenderson12/jameshenderson12">
