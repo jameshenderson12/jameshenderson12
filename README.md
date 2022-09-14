@@ -15,9 +15,9 @@ Hello, I'm James! I work at the University of Nottingham developing software app
 <!-- 📫 How to reach me: ... -->
 
 
-### My GitHub Usage
+<!-- ### My GitHub Usage -->
 <a href="https://github.com/jameshenderson12">
-  <img width="50%" alt="James' github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true" />
+  <img width="50%" alt="James' github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&hide_border=true" />
 </a>
 
 <!--
