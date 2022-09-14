@@ -17,7 +17,7 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 
 <!--## My GitHub usage...-->
 <a href="https://github.com/jameshenderson12">
-  <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&hide_border=true" />
+  <img width="50%" alt="James' github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&hide_border=true" />
 </a>
 
 <!--
