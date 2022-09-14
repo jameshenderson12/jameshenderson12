@@ -2,8 +2,8 @@
 <!--![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jameshenderson12&repo=jameshenderson12&label=Profile%20Page%20Visits&countColorcountColor&countColor=%237B1E7A)
 -->
 <!--## A bit about me...-->
-Hello! Originally from Scotland, I work at the University of Nottingham developing software applications and learning resources for various Erasmus+ projects. I graduated from Edinburgh Napier University in 2008 as a software engineer although I also have over a decade of experience in designing and building educational resources for healthcare students.
-- 🔭 I’m currently working on Erasmus+ projects
+Hello, I'm James! I work at the University of Nottingham developing software applications and learning resources for various Erasmus+ projects. I am original from Scotland and graduated from Edinburgh Napier University in 2008 as a software engineer. I have over a decade of experience in designing and building educational resources for healthcare students.
+- 🔭 I’m currently working on Erasmus+ projects (CEPEH, CoViRR, HEALINT4ALL, TOTEMM)
 - 🌱 I’m currently developing resources using chatbot, VR, 360&deg; technologies
 - 💬 Ask me about anything related to digital/online learning and pedagogy
 - ⚽ My hobbies include football, music, coding, gaming and eating pizza!
@@ -15,9 +15,9 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 <!-- 📫 How to reach me: ... -->
 
 
-<!--## My GitHub usage...-->
+### My GitHub Usage
 <a href="https://github.com/jameshenderson12">
-  <img width="50%" alt="James' github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&hide_border=true" />
+  <img width="50%" alt="James' github stats" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true" />
 </a>
 
 <!--
