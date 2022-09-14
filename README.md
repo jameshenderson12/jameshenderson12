@@ -16,16 +16,8 @@ Hello! Originally from Scotland, I work at the University of Nottingham developi
 
 
 <!--## My GitHub usage...-->
-
-<a href="https://github.com/jameshenderson12/jameshenderson12">
 ![Stats Overview](https://raw.githubusercontent.com/jameshenderson12/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jameshenderson12/github-stats-transparent/output/generated/languages.svg)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshenderson12&show_icons=true&line_height=27&count_private=true&theme=vue&hide_border=true&custom_title=Some of my GitHubs stats" alt="James' GitHub Usage" />
-</a>
-<a href="https://github.com/jameshenderson12/jameshenderson12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshenderson12&langs_count=8&count_private=true&theme=vue&hide_border=true&layout=compact&custom_title=My most used languages" alt="James' Most Used Languages" />
-</a>
 
 <!--
 **jameshenderson12/jameshenderson12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
